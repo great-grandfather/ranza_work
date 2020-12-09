@@ -16,7 +16,3 @@ REPOM :- link of your private mirror bot repository
 then go .github/workflows/*.yml
 
 Change username environment variable 
-
-And That's it.
-
-©ElytrA8
